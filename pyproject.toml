@@ -1,0 +1,12 @@
+
+[project]
+name = 'nltms'
+description = 'nltms, for nuLiga Tennis Match Scraper, scrapes tennis matches from nuLiga and returns as a list of match objects'
+version = '0.0.0'
+
+requires-python = '>=3.12'
+dependencies = [
+	'requests == 2.32.3',
+	'beautifulsoup4 == 4.13.4',
+	'pyyaml == 6.0.2'
+]

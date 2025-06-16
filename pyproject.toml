@@ -1,7 +1,7 @@
 
 [project]
 name = 'nltms'
-description = 'nltms, for nuLiga Tennis Match Scraper, scrapes tennis matches from nuLiga and returns them as a list of match objects'
+description = 'nltms, for nuLiga Tennis Match Scraper, scrapes tennis matches from liga.nu and returns them as a list of match objects'
 version = '0.0.0'
 
 requires-python = '>=3.12'
